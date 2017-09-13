@@ -1,4 +1,0 @@
-0,1,2
-Atlanta art map,http://atlantaartmap.com,An interactive map of street art in Atlanta
-Latent semantic analysis of Yelp data,http://nbviewer.jupyter.org/github/DataNeel/yelp_lsa/blob/master/yelp_lsa.ipynb,"Toying around with LSA using Yelp data, scikit-learn, pandas, etc."
-Nx2 cross validation,http://dataneel.github.io/nx2_cross_validation/,Assess the performance of multiple binary classifiers in parallel
