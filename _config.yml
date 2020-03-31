@@ -1,9 +1,2 @@
 name: Neel Shivdasani
 markdown: kramdown
-theme: minima
-minima:
-  social_links:
-    twitter: dataneel
-    github: dataneel
-    instagram: neel_generates
-    linkedin: neelshivdasani
