@@ -1,4 +1,4 @@
-![sup fam](wave.gif)
+![sup fam](wave.gif width=400)
 Hi! My name is Neel Shivdasani, and I live in Atlanta, Ga.
 
 I'm a product manager at Mailchimp, where I build data science features that empower small businesses. Prior becoming a product manager, I spent several years as a data scientist. You can learn more about these sorts of things [on linkedin](http://linkedin.dataneel.com).
