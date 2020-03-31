@@ -2,6 +2,8 @@
 
 ![sup fam](wave.gif){:width="400px"}
 
+<canvas class="glslCanvas" data-fragment-url="stakra.frag" width="500" height="500"></canvas>
+
 Hi! My name is **Neel Shivdasani**, and I live in Atlanta, Ga.
 
 I'm a product manager at [Mailchimp](http://mailchimp.com), where I build data science features that empower small businesses. Prior becoming a product manager, I was a data scientist. You can learn more about these sorts of things [on linkedin](http://linkedin.dataneel.com).
