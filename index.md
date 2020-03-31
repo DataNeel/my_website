@@ -1,5 +1,4 @@
-<script type="text/javascript" src="https://rawgit.com/patriciogonzalezvivo/glslCanvas/master/dist/GlslCanvas.js"></script>
-<canvas class="glslCanvas" data-fragment-url="stakra.frag" width="100%" height="400px"></canvas>
+![sup fam](wave.gif){:width="400px"}
 
 Hi! My name is **Neel Shivdasani**, and I live in Atlanta, Ga.
 
