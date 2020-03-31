@@ -27,12 +27,12 @@ float sinH(float val) {
         float j = i*2. + 1.;
     	s += sin(j*val)/j;
     }
- return s;   
+ return s;
 }
 
 void main() {
     vec2 st = gl_FragCoord.xy/u_resolution.xy;
-    st.x *= u_resolution.x/u_resolution.y;
+    st.x *= u_resolution.x/u_resolution.x;
     st = st * 2. - 1.;
 
     float c = 100.;
@@ -46,16 +46,16 @@ void main() {
     for (float i = 1.; i<= points; i++) {
         c *= distance2(vec2(sin(speed*random(vec2(i,-1.))*u_time)*scale*random(vec2(i,1.)),
                             cos(speed*random(vec2(i,-2.))*u_time)*scale*random(vec2(i,2.))),st);
-        
+
   		c2 *= distance2(vec2(sin(speed*random(vec2(i,-1.))*u_time2)*scale*random(vec2(i,1.)),
                             cos(speed*random(vec2(i,-2.))*u_time2)*scale*random(vec2(i,2.))),st);
-        
+
         c3 *= distance2(vec2(sin(speed*random(vec2(i,-3.))*u_time)*scale*random(vec2(i,3.)),
                             cos(speed*random(vec2(i,-4.))*u_time)*scale*random(vec2(i,4.))),st);
-        
+
   		c4 *= distance2(vec2(sin(speed*random(vec2(i,-3.))*u_time2)*scale*random(vec2(i,3.)),
                             cos(speed*random(vec2(i,-4.))*u_time2)*scale*random(vec2(i,4.))),st);
-        
+
     }
     c -= c2;
     c = c +1. / 2.;
@@ -69,10 +69,10 @@ void main() {
     vec3 colorB = vec3(150.0/255.,130.0/255.,150.0/255.);
     vec3 colorC = vec3(10.0/255.,0.0/255.,13.0/255.);
     vec3 colorD = vec3(100.0/255.,100.0/255.,135.0/255.);
-    
-    
-    
-    
+
+
+
+
     vec3 finalc = mix(colorA, colorB,c);
     vec3 finalc2 = mix(colorC, colorD,c3);
 
