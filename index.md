@@ -1,4 +1,4 @@
-![sup fam](profile.JPG){:width="400px"}
+![sup fam](profile.JPG)
 
 Hi! My name's **Neel Shivdsasani**, and I live in Atlanta, Ga.
 
