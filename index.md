@@ -1,9 +1,10 @@
 ![sup fam](profile.JPG){:width="400px"}
 
-Hi! My name is **Neel Shivdasani**, and I live in Atlanta, Ga.
+Hi! My name's **Neel Shivdsasani**, and I live in Atlanta, Ga.
 
-I'm a product manager at [Mailchimp](http://mailchimp.com), where I work with cross-functional teams to build data science features that empower small businesses. Prior to becoming a product manager, I was a data scientist. You can learn more about these sorts of things [on linkedin](http://linkedin.dataneel.com).
+I'm a product manager by day, generative artist by night, and data scientist at heart.
 
-I also like to make generative art, which you can find [on instagram](http://instagram.com/neel.shivdasani). This hobby led me to cofound an online art gallery where buyers could customize and order unique art prints. It's called [GASP Gallery](http://www.gasp.gallery), but we've currently suspended the ability to buy prints.
-
-You can reach out to me on [twitter](http://twitter.dataneel.com), [linkedin](http://linkedin.dataneel.com), and [instagram](http://instagram.dataneel.com). Thanks!
+* View my art on [Instagram](https://instagram.com/neel.shivdasani)
+* Buy my art on [Foundation](https://foundation.app/0xB981c2ca4682EB4Aa5b1856de35B6dF385a54DA6)
+* Read my [fire tweets](https://twitter.com/dataneel)
+* Learn about my work [on LinkedIn](https://www.linkedin.com/in/neelshivdasani/)
