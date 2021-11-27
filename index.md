@@ -1,4 +1,4 @@
-![sup fam](profile.JPG)
+<img src="profile.JPG" width="400">
 
 Hi! My name's **Neel Shivdsasani**, and I live in Atlanta, Ga.
 
