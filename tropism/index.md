@@ -70,8 +70,8 @@ This was, more or less, what I set out to do. I loved it at the time, and I deci
 
 Realistically, this code wasn't that different from my first attempt. Nevertheless, very small differences in this system can manifest in drastically different outcomes.
 
-## GASP Gallery
-It's around this time that myself and two of my colleagues started [GASP Gallery](https://www.instagram.com/gasp.gallery/), a website where buyers could customize and buy art from myself, [Kjetil Golid](https://www.instagram.com/p/B1ynnJMnD4b/), [Aaron Penne](https://www.instagram.com/p/B1gfFVcnKJJ/), and [Devi Parikh.](https://www.instagram.com/p/B4Cpqx6nLAn/).  In many ways, this was my first attempt at what people now call "long form" generative art. Long story short, the site crashed, but the work and relationships had a lasting impact on my work.
+## GASP Gallery, community, and generative art for the masses
+It's around this time that myself and two of my colleagues started [GASP Gallery](https://www.instagram.com/gasp.gallery/), a website where buyers could customize and buy art from myself, [Kjetil Golid](https://www.instagram.com/p/B1ynnJMnD4b/), [Aaron Penne](https://www.instagram.com/p/B1gfFVcnKJJ/), and [Devi Parikh.](https://www.instagram.com/p/B4Cpqx6nLAn/).  This was my first attempt at connecting my generative art with a broader community of non-artists. Long story short, the site was extremely unprofitable, but the work and relationships have had a lasting impact on my work.
 
 ## Continued evolution
 Back on the topic of graph search. I'd been creating these random graph structures, and it was alright. Then, on accident, I made them a bit less random. What resulted was a striking lesson that randomness is often more interesting when it emerges from and is surrounded by order. The structures feel more real, intentional, and also organic. It's a fascinating emergent behavior.
