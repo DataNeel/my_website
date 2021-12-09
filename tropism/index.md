@@ -1,4 +1,4 @@
-# Tropism: a self-depicting artwork
+# Tropism: An Unintentional Self-Depicting Artwork
 <img src="tropism104.png" width=600>
 
 *Ropsten test mint 104. More test mints at the bottom*
