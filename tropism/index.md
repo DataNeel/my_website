@@ -1,4 +1,4 @@
-# Tropism: art that depicts process
+# Tropism: art that unintentionally depicts process
 On December 16th, 2021, I will release my first work of my first on-chain work of generative art, [Tropism](https://www.artblocks.io/project/224), via Art Blocks. Its description reads...
 
 `Tropism is the phenomenon in which an organism's growth is influenced by environmental stimuli. Organisms of all shapes, sizes, and colors encounter varying amounts of external forces as they grow. These environmental stimuli are internalized, and the marks they leave end up being the defining characteristics of a life.`
@@ -155,7 +155,7 @@ And then 3D.
     height="660"
   ></iframe>
 </div>
-And then glsl/shaders also minted on [Foundation](https://foundation.app/@neelshivdasani/~/76825)
+And then glsl/shaders (also minted on [Foundation](https://foundation.app/@neelshivdasani/~/76825)).
 
 <div>
   <iframe
@@ -173,4 +173,4 @@ Throughout my evolution as a generative artist, random inspiration from bugs, li
 
 Whatever comes next won't share the same concept as Tropism, but it will share the same tangled history of life, influences, bugs, and other inputs that get baked into all of my work.
 
-Here are some Ropsted test mints of Tropism.
+To close things out, here are some Ropsten test mints of Tropism.
