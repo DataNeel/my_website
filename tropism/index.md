@@ -1,5 +1,6 @@
 # Tropism: a self-depicting artwork
 <img src="tropism104.png" width=600>
+
 *Ropsten test mint 104. More test mints at the bottom*
 
 On December 16th, 2021, I will release my first work of my first on-chain work of generative art, [Tropism](https://www.artblocks.io/project/224), via Art Blocks. Its description reads...
@@ -69,8 +70,10 @@ This was, more or less, what I set out to do. I loved it at the time, and I deci
 
 Realistically, this code wasn't that different from my first attempt. Nevertheless, very small differences in this system can manifest in drastically different outcomes.
 
+## GASP Gallery
 It's around this time that myself and two of my colleagues started [GASP Gallery](https://www.instagram.com/gasp.gallery/), a website where buyers could customize and buy art from myself, [Kjetil Golid](https://www.instagram.com/p/B1ynnJMnD4b/), [Aaron Penne](https://www.instagram.com/p/B1gfFVcnKJJ/), and [Devi Parikh.](https://www.instagram.com/p/B4Cpqx6nLAn/).  In many ways, this was my first attempt at what people now call "long form" generative art. Long story short, the site crashed, but the work and relationships had a lasting impact on my work.
 
+## Continued evolution
 Back on the topic of graph search. I'd been creating these random graph structures, and it was alright. Then, on accident, I made them a bit less random. What resulted was a striking lesson that randomness is often more interesting when it emerges from and is surrounded by order. The structures feel more real, intentional, and also organic. It's a fascinating emergent behavior.
 
 <div>
@@ -143,7 +146,7 @@ Then I'd find something that would inspire me to try interactivity, and I'd inco
     scrolling="no"
     allowtransparency
     width="600"
-    height="660"
+    height="880"
   ></iframe>
 </div>
 And then 3D.
@@ -155,11 +158,10 @@ And then 3D.
     scrolling="no"
     allowtransparency
     width="600"
-    height="660"
+    height="550"
   ></iframe>
 </div>
 And then glsl/shaders (also minted on [Foundation](https://foundation.app/@neelshivdasani/~/76825)).
-
 <div>
   <iframe
     src="https://www.instagram.com/p/CS_30CTnJHT/embed"
@@ -172,11 +174,11 @@ And then glsl/shaders (also minted on [Foundation](https://foundation.app/@neels
   ></iframe>
 </div>
 
+## Finally, Tropism
 Throughout my evolution as a generative artist, random inspiration from bugs, life events, and other artists would get absorbed into my work and steer my development. My specific combination of random influences is, hopefully, what makes my art unique. This echos the concept behind Tropism. The art unintentionally resembles the multi-year process from which it was born.
 
-Whatever comes next won't share the same concept as Tropism, but it will share the same tangled history of life, influences, bugs, and other inputs that get baked into all of my work.
+Whatever comes next won't share the same concept as Tropism, but it will share the same tangled history of life, influences, bugs, and other inputs that get baked into all of my work. To close things out, here are some Ropsten test mints of Tropism.
 
-To close things out, here are some Ropsten test mints of Tropism.
 <img src="tropism03.png" width=600>
 <img src="tropism05.png" width=600>
 <img src="tropism18.png" width=600>
