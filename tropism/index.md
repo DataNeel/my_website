@@ -1,6 +1,6 @@
 <script async src="//platform.instagram.com/en_US/embeds.js"></script>
 # Tropism: An Unintentionally Self-Depicting Artwork
-<img src="tropism104.png" width=600>
+<img src="tropism104.png" width=658>
 
 *Ropsten test mint 104. More test mints at the bottom*
 
@@ -75,14 +75,14 @@ Throughout my evolution as a generative artist, random inspiration from bugs, li
 
 Whatever comes next won't share the same concept as Tropism, but it will share the same tangled history of life, influences, bugs, and other inputs that get baked into all of my work. To close things out, here are some Ropsten test mints of Tropism.
 
-<img src="tropism03.png" width=600>
-<img src="tropism05.png" width=600>
-<img src="tropism18.png" width=600>
-<img src="tropism30.png" width=600>
-<img src="tropism48.png" width=600>
-<img src="tropism67.png" width=600>
-<img src="tropism73.png" width=600>
-<img src="tropism54.png" width=600>
-<img src="tropism33.png" width=600>
-<img src="tropism04.png" width=600>
-<img src="tropism02.png" width=600>
+<img src="tropism03.png" width=658>
+<img src="tropism05.png" width=658>
+<img src="tropism18.png" width=658>
+<img src="tropism30.png" width=658>
+<img src="tropism48.png" width=658>
+<img src="tropism67.png" width=658>
+<img src="tropism73.png" width=658>
+<img src="tropism54.png" width=658>
+<img src="tropism33.png" width=658>
+<img src="tropism04.png" width=658>
+<img src="tropism02.png" width=658>
