@@ -189,3 +189,4 @@ Whatever comes next won't share the same concept as Tropism, but it will share t
 <img src="tropism54.png" width=600>
 <img src="tropism33.png" width=600>
 <img src="tropism04.png" width=600>
+<img src="tropism02.png" width=600>
