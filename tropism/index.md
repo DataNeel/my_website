@@ -74,7 +74,9 @@ Realistically, this code wasn't that different from my first attempt. Neverthele
 It's around this time that myself and two of my colleagues started [GASP Gallery](https://www.instagram.com/gasp.gallery/), a website where buyers could customize and buy art from myself, [Kjetil Golid](https://www.instagram.com/p/B1ynnJMnD4b/), [Aaron Penne](https://www.instagram.com/p/B1gfFVcnKJJ/), and [Devi Parikh.](https://www.instagram.com/p/B4Cpqx6nLAn/).  This was my first attempt at connecting my generative art with a broader community of non-artists. Long story short, the site was extremely unprofitable, but the work and relationships have had a lasting impact on my work.
 
 ## Continued evolution
-Back on the topic of graph search. I'd been creating these random graph structures, and it was alright. Then, on accident, I made them a bit less random. What resulted was a striking lesson that randomness is often more interesting when it emerges from and is surrounded by order. The structures feel more real, intentional, and also organic. It's a fascinating emergent behavior.
+Back on the topic of graph search. I'd been creating these random graph structures, and it was alright. Then, on accident, I reduced the randomness substantially. This next graph is mostly orderly, but there are occasinoal moments where a connection breaks down or is blocked. This is the birth of what ultimately became  Tropism. The paths will move in an orderly manner until they are blocked, and then they will divert whhen they hit a dead end. That diversion will ripple throughout the rest of the structure. It's a fascinating emergent behavior.
+
+The result is a striking lesson that randomness is often more interesting when it emerges from and is surrounded by order. The structures feel more real, intentional, and also organic. In this image, the changes to the structure happen because a path is blocked by the "invisible" lack of a connection. In tropism, the paths are blocked both by the lack of a connection (the Stability feature) as well as the stimuli that are littered around the graph (the Stimuli Amount feature).
 
 <div>
   <iframe
@@ -83,7 +85,7 @@ Back on the topic of graph search. I'd been creating these random graph structur
     allowfullscreen
     scrolling="no"
     allowtransparency
-    width="600"
+    width=100%
     height="810"
   ></iframe>
 </div>
