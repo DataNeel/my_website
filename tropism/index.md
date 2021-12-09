@@ -21,7 +21,7 @@ I spent years observing instead of trying to make my own. Then, something change
     scrolling="no"
     allowtransparency
     width="600"
-    height="660"
+    height="810"
   ></iframe>
 </div>
 
@@ -36,7 +36,7 @@ For nearly a month, I wore my 'influences' on my sleeve and copied other artists
     scrolling="no"
     allowtransparency
     width="600"
-    height="660"
+    height="810"
   ></iframe>
 </div>
 
@@ -50,7 +50,7 @@ This was actually a bug, and not at all the intended outcome. That's fine. It ha
     scrolling="no"
     allowtransparency
     width="600"
-    height="660"
+    height="810"
   ></iframe>
 </div>
 
@@ -64,7 +64,7 @@ This was, more or less, what I set out to do. I loved it at the time, and I deci
     scrolling="no"
     allowtransparency
     width="600"
-    height="660"
+    height="810"
   ></iframe>
 </div>
 
@@ -84,7 +84,7 @@ Back on the topic of graph search. I'd been creating these random graph structur
     scrolling="no"
     allowtransparency
     width="600"
-    height="660"
+    height="810"
   ></iframe>
 </div>
 
@@ -97,7 +97,7 @@ And it works in many shapes.
     scrolling="no"
     allowtransparency
     width="600"
-    height="660"
+    height="810"
   ></iframe>
 </div>
 
@@ -110,7 +110,7 @@ And layouts.
     scrolling="no"
     allowtransparency
     width="600"
-    height="660"
+    height="810"
   ></iframe>
 </div>
 And textures.
@@ -122,7 +122,7 @@ And textures.
     scrolling="no"
     allowtransparency
     width="600"
-    height="660"
+    height="810"
   ></iframe>
 </div>
 And before I knew it, graph search seemed to be the algorithm that I used most often. I might see some cool animated art and go try it out, but then I'd come back to graph search.
@@ -134,7 +134,7 @@ And before I knew it, graph search seemed to be the algorithm that I used most o
     scrolling="no"
     allowtransparency
     width="600"
-    height="660"
+    height="810"
   ></iframe>
 </div>
 Then I'd find something that would inspire me to try interactivity, and I'd incorporate it into graph search..
@@ -170,7 +170,7 @@ And then glsl/shaders (also minted on [Foundation](https://foundation.app/@neels
     scrolling="no"
     allowtransparency
     width="600"
-    height="660"
+    height="810"
   ></iframe>
 </div>
 
