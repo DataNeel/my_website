@@ -1,4 +1,4 @@
-# Tropism: art that unintentionally depicts process
+# Tropism: a self-depicting artwork
 <img src="tropism104.png" width=600>
 *Ropsten test mint 104. More test mints at the bottom*
 
@@ -6,7 +6,7 @@ On December 16th, 2021, I will release my first work of my first on-chain work o
 
 `Tropism is the phenomenon in which an organism's growth is influenced by environmental stimuli. Organisms of all shapes, sizes, and colors encounter varying amounts of external forces as they grow. These environmental stimuli are internalized, and the marks they leave end up being the defining characteristics of a life.`
 
-That's the real definition of tropism. In my world, Tropism is an emergent system that has resulted from years of tinkering, bugs, successes, life events, community influence, and artistic evolution. In that regard, the process of creating this work of generative art has been very similar to what the art itself depicts.
+That's the real definition of tropism. In my world, Tropism is an emergent system that has resulted from years of tinkering, bugs, successes, life events, community influence, and artistic evolution. In that regard, the process of creating this work of generative art has been very similar to the type of organic and influenced growth that the art itself depicts.
 
 ## The origins of my art and Tropism
 I had always been interested in art, but I never felt I had the skills to make it. I was a computer person. A math person. I just wasn't an artist. I started to doubt that assesment in the mid-2010s, when I first found out about generative art from artists like [Anders Hoff (Inconvergent)](https://inconvergent.net/) and [Jessica Rosenkrantz (Nervous System)](https://n-e-r-v-o-u-s.com/about_us.php).
