@@ -1,0 +1,5 @@
+# obvious repo policy — auto-detected from GitHub settings 2026-09-30
+defaultBranch: master
+# All merge methods allowed on GitHub; squash chosen as the platform merge method.
+mergeMethod: squash
+requireHumanMerge: true
